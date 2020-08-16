@@ -1,5 +1,10 @@
 # vue-images
 
+## Description
+```
+A Vue App for fetching images from a User's Imgur account.
+```
+
 ## Project setup
 ```
 yarn install
